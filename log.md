@@ -1,4 +1,4 @@
-### DAY 1:  5th May 2020, Tuesdwa
+### DAY 1:  5th May 2020, Tuesday
 
 **Today's Progress**: First day, did a list of small projects I could do during the remaining 99days, that i always wanted to do but didnt have time or easnt worth the time at that moment. More edabid challanges.
 
