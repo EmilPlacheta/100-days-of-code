@@ -1,3 +1,9 @@
+### DAY 3:  7th May 2020, Thursday
+**Today's Progress**: I wanted to cleanup the mockup code from yesterday, and add a basic UI and some styling, but I noticed a bug. The calculation will only be correct if only one person spends more than the average share (total spent / 3 = fair share everyone should pay). At the momemnt calculation determines the biggest speneder, checks how much over the average (fair share) they spent and and how much others spent below the average and prints the respective diference. 
+This does not work when one person spent a lot less and need to compensate the other two.
+
+**Thoughts**: Sometimes if you think something seems easy, it might be because you didnt think longe enough about it.
+
 ### DAY 2:  6th May 2020, Wednesday
 **Today's Progress**: Receipt splitter that showes who is owed money after a week of shopping, when 3 people did a shop and spent different amounts. It logs who should recieve money from who and how much.
 
