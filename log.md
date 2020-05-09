@@ -1,3 +1,16 @@
+### DAY 5: 9th May 2020, Saturday
+
+**Today's Progress**: Spend few hours experimenting and finally did it. Ive changed the approach. Put everyone into an array of objects called `group`, with their `name` and `amountSpent` as properties. Reduced it to get the `total` amount spent.
+Divide by length of the array to get the `fairShare`.
+Looped over the array with forEach and added `balance` property by substracting `fairShare` from `amountSpent`.
+
+With another forEach and a conditional, I went over the `group` and segregated people with negative and positive balance and pushed their `name` and `balance` into the `owe` and `owed` arrays respectively.
+This gives a clear view who is owed and how much.
+
+**Thoughts**: :smiley:
+
+---
+
 ### DAY 4: 8th May 2020, Friday
 
 **Today's Progress**: Kept trying to find the right formula for the bill splitting. Started again from scratch trying different approach, based on the 'balance' after calculating 'spentAmount' - 'fairShare'. Still dont have the right solution that works in every scenario.
