@@ -1,3 +1,11 @@
+### DAY 6: 10th May 2020, Sunday
+
+**Today's Progress**: Worked on adding the UI to the receipt splitter I worked on yesterday.
+
+**Thoughts**: Short day today, not much 'coding' or problem solving, but it was good to have a quick refresh of Materialize.
+
+---
+
 ### DAY 5: 9th May 2020, Saturday
 
 **Today's Progress**: Spend few hours experimenting and finally did it. Ive changed the approach. Put everyone into an array of objects called `group`, with their `name` and `amountSpent` as properties. Reduced it to get the `total` amount spent.
