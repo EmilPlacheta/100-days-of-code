@@ -1,3 +1,11 @@
+### DAY 7: 11th May 2020, Monday
+
+**Today's Progress**: Refactored the the code a bit to improve redability.
+
+**Thoughts**: Not happy with how the final results are stored. Makes it easy to display, but difficult to reuse the data. This will be an issue, as I was thinking of adding an optoion to exclude amounts from the total, to be paid by the individual person. Eg: Person A goes shopping and gets groceries for everyone (A, B and C) and an certain item only for person B - which person B will pay in full. This item will have to be acluded from the total and paid solely by person B.
+
+---
+
 ### DAY 6: 10th May 2020, Sunday
 
 **Today's Progress**: Worked on adding the UI to the receipt splitter I worked on yesterday.
