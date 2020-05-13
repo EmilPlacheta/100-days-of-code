@@ -1,7 +1,6 @@
-### DAY 7: 13th May 2020, Wednesday
+### DAY 9: 13th May 2020, Wednesday
 
 **Today's Progress**: Worked on refactoring Mixer, my very first js App, to work with an acutal API instead of a hardcoded db of cocktails.
-
 **Thoughts**: I feel like I could benefit from more API practice, and using async js in general.
 
 ---
