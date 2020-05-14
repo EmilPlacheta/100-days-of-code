@@ -1,3 +1,11 @@
+### DAY 10: 14th May 2020, Thursday
+
+**Today's Progress**: set up the fetch and basic scafolding for the results
+
+**Thoughts**: It turned out the CocktailDB API doesnt allow to search cocktails by ingredient in the free version. I still wanted to use it, so I settled for showing a random cocktail instead.
+
+---
+
 ### DAY 9: 13th May 2020, Wednesday
 
 **Today's Progress**: Worked on refactoring Mixer, my very first js App, to work with an acutal API instead of a hardcoded db of cocktails.
@@ -5,14 +13,11 @@
 
 ---
 
-
 ### DAY 8: 12th May 2020, Tuesday
 
 **Today's Progress**: --DAY MISSED--
 
-
 ---
-
 
 ### DAY 7: 11th May 2020, Monday
 
