@@ -1,3 +1,11 @@
+### DAY 11: 15th May 2020, Friday
+
+**Today's Progress**: styled the fetched results results and played with the layout.
+
+**Thoughts**: Neat and clean look. Still needs navigation, footer etc.
+
+---
+
 ### DAY 10: 14th May 2020, Thursday
 
 **Today's Progress**: set up the fetch and basic scafolding for the results
