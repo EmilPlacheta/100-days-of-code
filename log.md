@@ -1,3 +1,11 @@
+### DAY 12: 16th May 2020, Saturday
+
+**Today's Progress**: maintanence of personal website, making space for a new project
+
+**Thoughts**: no exciting thoughts to report
+
+---
+
 ### DAY 11: 15th May 2020, Friday
 
 **Today's Progress**: styled the fetched results results and played with the layout.
