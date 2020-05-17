@@ -1,3 +1,12 @@
+### DAY 13: 17th May 2020, Sunday
+
+**Today's Progress**: added navigation and About page to the Surprise App.
+
+**Thoughts**: 'Surprise me.' is now finished, moving to new project tomorrow. Quite excited actually :smiley:
+
+---
+
+
 ### DAY 12: 16th May 2020, Saturday
 
 **Today's Progress**: maintanence of personal website, making space for a new project
