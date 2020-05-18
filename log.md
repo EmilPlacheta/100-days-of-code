@@ -1,3 +1,11 @@
+### DAY 14: 18th May 2020, Monday
+
+**Today's Progress**: created a simple app to show JS event keycode.
+
+**Thoughts**: Needed to get the event keycode for space bar, and after googling I found Wes Bos's https://keycode.info/ and decided to make one myself :)
+
+---
+
 ### DAY 13: 17th May 2020, Sunday
 
 **Today's Progress**: added navigation and About page to the Surprise App.
@@ -5,7 +13,6 @@
 **Thoughts**: 'Surprise me.' is now finished, moving to new project tomorrow. Quite excited actually :smiley:
 
 ---
-
 
 ### DAY 12: 16th May 2020, Saturday
 
