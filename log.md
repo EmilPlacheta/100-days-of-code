@@ -1,3 +1,11 @@
+### DAY 15: 19th May 2020, Tuesday
+
+**Today's Progress**: worked on a website, first time using the mobile first approach. made good progress, index page is pretty much finished.
+
+**Thoughts**: it was refreshing to just work with html and css for a change.
+
+---
+
 ### DAY 14: 18th May 2020, Monday
 
 **Today's Progress**: created a simple app to show JS event keycode.
