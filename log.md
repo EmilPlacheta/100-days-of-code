@@ -1,3 +1,12 @@
+### DAY 16: 20th May 2020, Wednesday
+
+**Today's Progress**: continued working on the brewery site. aded two more pages today, 2 left. Its coming along nicely.
+
+**Thoughts**: Every time I work with materialize or Bootrstrap I enjoy how easy it is to just 'style' with  html classes only to overwrite it anyway later on. I feel I found a good balance today between the two.
+
+---
+
+
 ### DAY 15: 19th May 2020, Tuesday
 
 **Today's Progress**: worked on a website, first time using the mobile first approach. made good progress, index page is pretty much finished.
