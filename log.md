@@ -2,7 +2,7 @@
 
 **Today's Progress**: continued working on the brewery site. aded two more pages today, 2 left. Its coming along nicely.
 
-**Thoughts**: Every time I work with materialize or Bootrstrap I enjoy how easy it is to just 'style' with  html classes only to overwrite it anyway later on. I feel I found a good balance today between the two.
+**Thoughts**: Every time I work with materialize or Bootrstrap I enjoy how easy it is to just 'style' with  html classes only to overwrite it anyway later on :sweat_smile: However, I feel I found a good balance today between the two.
 
 ---
 
