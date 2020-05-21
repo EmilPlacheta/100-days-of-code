@@ -1,11 +1,18 @@
+### DAY 17: 21st May 2020, Thursday
+
+**Today's Progress**: brewery website almost finished, needs just more content carried over.
+
+**Thoughts**: I wanted to have this site done purely with html/css and whatever funcionality came with Materialize, but the Beer menu is begging to be a React component. Something to look into at later date.
+
+---
+
 ### DAY 16: 20th May 2020, Wednesday
 
 **Today's Progress**: continued working on the brewery site. aded two more pages today, 2 left. Its coming along nicely.
 
-**Thoughts**: Every time I work with materialize or Bootrstrap I enjoy how easy it is to just 'style' with  html classes only to overwrite it anyway later on :sweat_smile: However, I feel I found a good balance today between the two.
+**Thoughts**: Every time I work with materialize or Bootrstrap I enjoy how easy it is to just 'style' with html classes only to overwrite it anyway later on :sweat_smile: However, I feel I found a good balance today between the two.
 
 ---
-
 
 ### DAY 15: 19th May 2020, Tuesday
 
