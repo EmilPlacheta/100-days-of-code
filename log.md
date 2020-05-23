@@ -10,7 +10,7 @@
 
 **Today's Progress**: brewery website is done :smiley:
 
-**Thoughts**: Rally happy with the result. Clean, crisp design, made folllowing 'mobile first' methodology. Goal was to keep the layout relatively similar so it will feel familiar to the usual users.
+**Thoughts**: Really happy with the result. Clean, crisp design, made folllowing 'mobile first' methodology. Goal was to keep the layout relatively similar so it will feel familiar to the usual users.
 
 ---
 
