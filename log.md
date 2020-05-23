@@ -2,7 +2,7 @@
 
 **Today's Progress**: Looked into canvas and how to use it. Then did a final checks on the brewery website and submitted it to the client.
 
-**Thoughts**: Rally happy with the result of the brewery website. Clean, crisp design, made folllowing 'mobile first' methodology. Goal was to keep the layout relatively similar so it will feel familiar to the usual users.
+**Thoughts**: I wonder how time consuming would it be to recreate MS Paint using canvas..
 
 ---
 
