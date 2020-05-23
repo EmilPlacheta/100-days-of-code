@@ -1,3 +1,19 @@
+### DAY 19: 23rd May 2020, Saturday
+
+**Today's Progress**: Looked into canvas and how to use it. Then did a final checks on the brewery website and submitted it to the client.
+
+**Thoughts**: Rally happy with the result of the brewery website. Clean, crisp design, made folllowing 'mobile first' methodology. Goal was to keep the layout relatively similar so it will feel familiar to the usual users.
+
+---
+
+### DAY 18: 22nd May 2020, Friday
+
+**Today's Progress**: brewery website is done :smiley:
+
+**Thoughts**: Rally happy with the result. Clean, crisp design, made folllowing 'mobile first' methodology. Goal was to keep the layout relatively similar so it will feel familiar to the usual users.
+
+---
+
 ### DAY 17: 21st May 2020, Thursday
 
 **Today's Progress**: brewery website almost finished, needs just more content carried over.
