@@ -1,3 +1,11 @@
+### DAY 20: 24th May 2020, Sunday
+
+**Today's Progress**: Played around with the HTML data attribute, and how nicely it can be used in JS. Ive created 2 short functions that can replace the mess I curently have on my personal website that is meant to show text while cards are hovered over.
+
+**Thoughts**: I really should redo my website, Ive learned so much since when it was created.  
+
+---
+
 ### DAY 19: 23rd May 2020, Saturday
 
 **Today's Progress**: Looked into canvas and how to use it. Then did a final checks on the brewery website and submitted it to the client.
