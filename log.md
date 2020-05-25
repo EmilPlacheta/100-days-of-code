@@ -1,8 +1,16 @@
+### DAY 21: 25th May 2020, Monday
+
+**Today's Progress**: Used the functions I developed yesterday on my personal site.
+
+**Thoughts**: After initial hickup, it worked like a charm, JS file went from 100+ lines of code to 50
+
+---
+
 ### DAY 20: 24th May 2020, Sunday
 
 **Today's Progress**: Played around with the HTML data attribute, and how nicely it can be used in JS. Ive created 2 short functions that can replace the mess I curently have on my personal website that is meant to show text while cards are hovered over.
 
-**Thoughts**: I really should redo my website, Ive learned so much since when it was created.  
+**Thoughts**: I really should redo my website, Ive learned so much since when it was created.
 
 ---
 
