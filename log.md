@@ -1,3 +1,11 @@
+### DAY 22: 25th May 2020, Tuesday
+
+**Today's Progress**: Adapted tabs I found in a tutorial to possibly work with the brewery page.
+
+**Thoughts**: I was watching WesBos's JS tutorial I bought last year and forgot about. Adapted his version of the clickable tabs to possibly use in the Twickenham website.
+
+---
+
 ### DAY 21: 25th May 2020, Monday
 
 **Today's Progress**: Used the functions I developed yesterday on my personal site.
