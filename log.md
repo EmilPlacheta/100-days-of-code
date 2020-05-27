@@ -1,3 +1,11 @@
+### DAY 23: 26th May 2020, Wednesday
+
+**Today's Progress**: Implemented the tabs in the brewery website
+
+**Thoughts**: Short day today, had to finish the site on time.
+
+---
+
 ### DAY 22: 25th May 2020, Tuesday
 
 **Today's Progress**: Adapted tabs I found in a tutorial to possibly work with the brewery page.
