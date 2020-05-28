@@ -1,3 +1,11 @@
+### DAY 24: 27th May 2020, Thursday
+
+**Today's Progress**: Few coding challanges and interview prep.
+
+**Thoughts**: ...
+
+---
+
 ### DAY 23: 26th May 2020, Wednesday
 
 **Today's Progress**: Implemented the tabs in the brewery website
