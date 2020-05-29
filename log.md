@@ -1,3 +1,11 @@
+### DAY 25: 28th May 2020, Friday
+
+**Today's Progress**: Worked on providing fallback for the webp images on the brewery website.
+
+**Thoughts**: I was made aware that the website has broken image links in Safari... because safari doesnt support webP that I used on the website.... it was pointed put during interview.. great.
+
+---
+
 ### DAY 24: 27th May 2020, Thursday
 
 **Today's Progress**: Few coding challanges and interview prep.
