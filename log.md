@@ -1,4 +1,11 @@
-### DAY 25: 28th May 2020, Friday
+### DAY 26: 30th May 2020, Saturday
+
+**Today's Progress**: added fallback to all ewbP images on the brewery site
+
+**Thoughts**: A bit tedious, it would be a lot easier to just swap all images for pngs, and then use find and replace across all files to change the extension with 2 clicks... But Ive done it properly, used <picture> element and put both versions of the image inside. Chrome and FF will use the first option (webP), Safari will use the second option (png). Lesson learned.
+
+---
+### DAY 25: 29th May 2020, Friday
 
 **Today's Progress**: Worked on providing fallback for the webp images on the brewery website.
 
@@ -6,7 +13,7 @@
 
 ---
 
-### DAY 24: 27th May 2020, Thursday
+### DAY 24: 28th May 2020, Thursday
 
 **Today's Progress**: Few coding challanges and interview prep.
 
@@ -14,7 +21,7 @@
 
 ---
 
-### DAY 23: 26th May 2020, Wednesday
+### DAY 23: 27th May 2020, Wednesday
 
 **Today's Progress**: Implemented the tabs in the brewery website
 
@@ -22,7 +29,7 @@
 
 ---
 
-### DAY 22: 25th May 2020, Tuesday
+### DAY 22: 26th May 2020, Tuesday
 
 **Today's Progress**: Adapted tabs I found in a tutorial to possibly work with the brewery page.
 
