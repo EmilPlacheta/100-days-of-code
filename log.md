@@ -1,10 +1,19 @@
+### DAY 33: 6th June 2020 Saturday (27th May -> 6th June 2020)
+
+**Today's Progress**: Over the past few days I was getting familiar with PHP's syntax, variable declaration, arrays, functions etc.
+
+**Thoughts**: I haven't updated the log for a while, but I was coding every day. Incredibly, I have been offered a Junior position at a digital agency. However, the condition of employment is that I need to learn back end technologies(PHP and Node). Therefore focus of the challenge has now shifted to learning both, starting with PHP.
+
+---
+
 ### DAY 26: 30th May 2020, Saturday
 
-**Today's Progress**: added fallback to all ewbP images on the brewery site
+**Today's Progress**: added fallback to all webP images on the brewery site
 
 **Thoughts**: A bit tedious, it would be a lot easier to just swap all images for pngs, and then use find and replace across all files to change the extension with 2 clicks... But Ive done it properly, used <picture> element and put both versions of the image inside. Chrome and FF will use the first option (webP), Safari will use the second option (png). Lesson learned.
 
 ---
+
 ### DAY 25: 29th May 2020, Friday
 
 **Today's Progress**: Worked on providing fallback for the webp images on the brewery website.
